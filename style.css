@@ -1,0 +1,14 @@
+body{
+    background-color: #1C1C1C;
+    color: #fff;
+}
+
+.header{
+    margin: 0 auto;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+
